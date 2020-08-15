@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="#rocket-tecnologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#construction_worker-running">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#construction_worker-running-the-project">Running the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## :rocket: Tecnologies
+## :rocket: Technologies
 
 This project was developed with the following technology:
 
@@ -17,7 +17,7 @@ This project was developed with the following technology:
 - TypeScript
 - Styled Components
 
-## :construction_worker: Running
+## :construction_worker: Running the project
 
 - To clone the project via HTTPS, run this command:\*\*
 
